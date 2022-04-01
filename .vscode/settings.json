@@ -1,0 +1,14 @@
+{
+  "prettier.printWidth": 100,
+  "prettier.quoteProps": "consistent",
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay"
+}
